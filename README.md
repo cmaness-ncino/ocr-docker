@@ -2,7 +2,7 @@
 
 To get your very own docker instance 
 
-    git clone 
+    git clone https://github.com/cmaness-ncino/ocr-docker
     docker build -t tika_tesseract .
     docker run --name tika_t -t tika_tesseract
 
